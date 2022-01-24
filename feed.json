@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "https://schen0801.github.io/personal-website/",
+    "description": "",
+    "home_page_url": "https://schen0801.github.io/personal-website",
+    "feed_url": "https://schen0801.github.io/personal-website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sihan Chen"
+    },
+    "items": [
+    ]
+}
